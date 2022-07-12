@@ -1,0 +1,12 @@
+@use './components/FilterInput';
+
+
+.container {
+  margin: 6rem auto;
+  display: flex;
+  justify-content: center;
+}
+
+.input-container { 
+  min-width: 30rem;
+}
